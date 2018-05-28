@@ -1,0 +1,13 @@
+c:\users\draci\documents\visual studio 2015\Projects\Project_EULER\Project_EULER\bin\Debug\Project_EULER.exe.config
+c:\users\draci\documents\visual studio 2015\Projects\Project_EULER\Project_EULER\bin\Debug\Project_EULER.exe
+c:\users\draci\documents\visual studio 2015\Projects\Project_EULER\Project_EULER\bin\Debug\Project_EULER.pdb
+c:\users\draci\documents\visual studio 2015\Projects\Project_EULER\Project_EULER\obj\Debug\Project_EULER.csprojResolveAssemblyReference.cache
+c:\users\draci\documents\visual studio 2015\Projects\Project_EULER\Project_EULER\obj\Debug\Project_EULER.exe
+c:\users\draci\documents\visual studio 2015\Projects\Project_EULER\Project_EULER\obj\Debug\Project_EULER.pdb
+D:\OLD LAPTOP\Desktop\linda\flash\Projects\Project_EULER\Project_EULER\bin\Debug\Project_EULER.exe.config
+D:\OLD LAPTOP\Desktop\linda\flash\Projects\Project_EULER\Project_EULER\bin\Debug\Project_EULER.exe
+D:\OLD LAPTOP\Desktop\linda\flash\Projects\Project_EULER\Project_EULER\bin\Debug\Project_EULER.pdb
+D:\OLD LAPTOP\Desktop\linda\flash\Projects\Project_EULER\Project_EULER\obj\Debug\Project_EULER.csprojResolveAssemblyReference.cache
+D:\OLD LAPTOP\Desktop\linda\flash\Projects\Project_EULER\Project_EULER\obj\Debug\Project_EULER.csproj.CoreCompileInputs.cache
+D:\OLD LAPTOP\Desktop\linda\flash\Projects\Project_EULER\Project_EULER\obj\Debug\Project_EULER.exe
+D:\OLD LAPTOP\Desktop\linda\flash\Projects\Project_EULER\Project_EULER\obj\Debug\Project_EULER.pdb
